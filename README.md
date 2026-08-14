@@ -57,15 +57,6 @@ Full Minesweeper implementation in Java with a Swing interface, multiple difficu
 
 ---
 
-## Beyond code
-
-<!-- Troque pelas suas: 2 ou 3 coisas, uma linha cada -->
-
-- ESCREVA AQUI
-- ESCREVA AQUI
-
----
-
 ## Reach me
 
 <div align="center">
