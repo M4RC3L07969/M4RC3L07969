@@ -3,7 +3,7 @@
 <h1>Marcelo Maia</h1>
 
 <a href="https://github.com/M4RC3L07969">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1500&color=7AA2F7&center=true&vCenter=true&width=560&lines=Information+Systems+student;Backend+%26+APIs+with+Python;Learning+by+building%2C+not+by+watching;Currently+exploring+LLMs+and+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1500&color=BB9AF7&center=true&vCenter=true&width=560&lines=Information+Systems+student;Backend+%26+APIs+with+Python;Learning+by+building%2C+not+by+watching;Currently+exploring+LLMs+and+RAG" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,30 +33,30 @@ What interests me most is the point where **APIs meet AI**: taking messy real-wo
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Django-1a1b26?style=for-the-badge&logo=django&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Python-16121e?style=for-the-badge&logo=python&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/FastAPI-16121e?style=for-the-badge&logo=fastapi&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/Django-16121e?style=for-the-badge&logo=django&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/Java-16121e?style=for-the-badge&logo=openjdk&logoColor=BB9AF7" />
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/CSS-1a1b26?style=for-the-badge&logo=css3&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/JavaScript-16121e?style=for-the-badge&logo=javascript&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/React-16121e?style=for-the-badge&logo=react&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/HTML-16121e?style=for-the-badge&logo=html5&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/CSS-16121e?style=for-the-badge&logo=css3&logoColor=BB9AF7" />
 
 **Data**
 
-<img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Qdrant-1a1b26?style=for-the-badge&logo=qdrant&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/PostgreSQL-16121e?style=for-the-badge&logo=postgresql&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/MySQL-16121e?style=for-the-badge&logo=mysql&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/MongoDB-16121e?style=for-the-badge&logo=mongodb&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/Qdrant-16121e?style=for-the-badge&logo=qdrant&logoColor=BB9AF7" />
 
 **Tooling**
 
-<img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Docker-16121e?style=for-the-badge&logo=docker&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/Git-16121e?style=for-the-badge&logo=git&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/GitHub-16121e?style=for-the-badge&logo=github&logoColor=BB9AF7" />
 
 </div>
 
@@ -80,15 +80,6 @@ Full Minesweeper implementation in Java with a Swing interface, multiple difficu
 
 ---
 
-## Beyond code
-
-<!-- Troque pelas suas: 2 ou 3 coisas, uma linha cada -->
-
-- ESCREVA AQUI
-- ESCREVA AQUI
-
----
-
 ## Reach me
 
 <div align="center">
@@ -100,7 +91,7 @@ Full Minesweeper implementation in Java with a Swing interface, multiple difficu
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jrmaia.marcelo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
