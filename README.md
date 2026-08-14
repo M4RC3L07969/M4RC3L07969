@@ -12,9 +12,9 @@
 
 ## About me
 
-Information Systems student based in Rio de Janeiro, focused on **backend development**.
+I'm an Information Systems student from Rio de Janeiro. I work mostly on the backend: Python, APIs and databases.
 
-What interests me most is the point where **APIs meet AI**: taking messy real-world data, running it through a solid backend, and putting an LLM layer on top of it. I learn by building — every concept here came from something I actually shipped and broke a few times.
+Lately I've been building things with LLMs on top of real data. Public data is usually a mess, so most of the work happens before the model gets involved. I learn by building projects and finding out what breaks.
 
 ---
 
