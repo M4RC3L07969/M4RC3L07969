@@ -29,21 +29,13 @@ What interests me most is the point where **APIs meet AI**: taking messy real-wo
 
 ## Tech
 
-<div align="center">
+**Backend** — Python · FastAPI · Django · Java
 
-**Languages**
+**Frontend** — JavaScript · React · HTML · CSS
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+**Data** — PostgreSQL · MySQL · MongoDB · Qdrant
 
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,docker,git,github" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-
-</div>
+**Tooling** — Docker · Git · GitHub
 
 ---
 
