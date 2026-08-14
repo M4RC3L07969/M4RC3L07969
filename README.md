@@ -29,13 +29,36 @@ What interests me most is the point where **APIs meet AI**: taking messy real-wo
 
 ## Tech
 
-**Backend** — Python · FastAPI · Django · Java
+<div align="center">
 
-**Frontend** — JavaScript · React · HTML · CSS
+**Backend**
 
-**Data** — PostgreSQL · MySQL · MongoDB · Qdrant
+<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Django-1a1b26?style=for-the-badge&logo=django&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7AA2F7" />
 
-**Tooling** — Docker · Git · GitHub
+**Frontend**
+
+<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/CSS-1a1b26?style=for-the-badge&logo=css3&logoColor=7AA2F7" />
+
+**Data**
+
+<img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Qdrant-1a1b26?style=for-the-badge&logo=qdrant&logoColor=7AA2F7" />
+
+**Tooling**
+
+<img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" />
+
+</div>
 
 ---
 
@@ -54,6 +77,15 @@ Full Minesweeper implementation in Java with a Swing interface, multiple difficu
 `Java` · `Swing` · `OOP`
 
 
+
+---
+
+## Beyond code
+
+<!-- Troque pelas suas: 2 ou 3 coisas, uma linha cada -->
+
+- ESCREVA AQUI
+- ESCREVA AQUI
 
 ---
 
